@@ -1,7 +1,7 @@
-import React from "react";
-import Layout from "@layout";
+import React from 'react';
+import Layout from '@layout';
 
-import {} from "@styles/pages/home";
+import {} from '@styles/pages/home';
 
 const HomePage: React.FC = () => (
   <Layout>

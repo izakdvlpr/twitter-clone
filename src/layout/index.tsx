@@ -1,11 +1,11 @@
-import React from "react";
-import Head from "next/head";
+import React from 'react';
+import Head from 'next/head';
 
 interface Props {
   title?: string;
 }
 
-const Layout: React.FC<Props> = ({ children, title = "" }) => (
+const Layout: React.FC<Props> = ({ children, title = '' }) => (
   <div>
     <Head>
       <meta charSet="utf-8" />
@@ -16,8 +16,8 @@ const Layout: React.FC<Props> = ({ children, title = "" }) => (
         href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap"
         rel="stylesheet"
       />
-    </Head>    
-    {children}    
+    </Head>
+    {children}
   </div>
 );
 
