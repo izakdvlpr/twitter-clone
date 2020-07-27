@@ -6,7 +6,10 @@
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
     "jsx": "preserve",
-    "lib": ["dom", "es2017"],
+    "lib": [
+      "dom",
+      "es2017"
+    ],
     "module": "esnext",
     "moduleResolution": "node",
     "noEmit": true,
@@ -22,12 +25,24 @@
       "./node_modules/@types",
       "./src/@types"
     ],
-    "paths": {      
-      "@components/*": ["components/*"],      
-      "@layout": ["layout"],
-      "@styles/*": ["styles/*"]
+    "paths": {
+      "@components/*": [
+        "components/*"
+      ],
+      "@layout": [
+        "layout"
+      ],
+      "@styles/*": [
+        "styles/*"
+      ]
     }
   },
-  "exclude": ["node_modules"],
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+  ]
 }

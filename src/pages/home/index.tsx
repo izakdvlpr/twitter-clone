@@ -1,11 +1,19 @@
 import React from 'react';
 import Layout from '@layout';
 
-import {} from '@styles/pages/home';
+import Main from '@components/Main';
+
+import { Container, Wrapper } from '@styles/pages/home';
 
 const HomePage: React.FC = () => (
   <Layout>
-    <h1>Hello World</h1>
+    <Container>
+      <Wrapper>
+        {/* <MenuBar /> */}
+        <Main />
+        {/* <SideBar /> */}
+      </Wrapper>
+    </Container>
   </Layout>
 );
 
