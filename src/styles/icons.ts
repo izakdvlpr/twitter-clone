@@ -12,3 +12,4 @@ export {
 } from 'react-icons/md';
 
 export { BsChatDots as Chat, BsArrowLeft as ArrowLeft } from 'react-icons/bs';
+export { RocketseatIcon as Rocketseat } from "@components/RocketseatIcon";
