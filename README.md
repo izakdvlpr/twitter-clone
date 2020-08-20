@@ -11,12 +11,21 @@
     <a href="#recycle-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#customs-license">Licença</a>
   </p>
-  <a href="https://github.com/zevdvlpr/twitter-clone/blob/master/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/twitter-clone?color=0080ff&label=License&style=flat-square" alt="License"></a>  
-  <a href="https://twitter-clone-zevdvlpr.vercel.app"><img src="https://img.shields.io/badge/Deploy-View%20Site-0080ff?style=flat-square" alt="Deploy"></a>
+  <img src="https://img.shields.io/github/repo-size/zevdvlpr/twitter-clone?color=2aa9e0&style=flat-square" alt="GitHub repo size">
+  <a href="https://github.com/zevdvlpr/twitter-clone/commits/master">
+    <img src="https://img.shields.io/github/last-commit/zevdvlpr/twitter-clone?color=2aa9e0&style=flat-square" alt="GitHub last commit">
   </a>
+  <a href="https://github.com/zevdvlpr/twitter-clone/tree/master/LICENSE">
+    <img src="https://img.shields.io/github/license/zevdvlpr/twitter-clone?color=2aa9e0&label=license&style=flat-square" alt="GitHub License">
+  </a>  
+  <a href="https://github.com/zevdvlpr/twitter-clone/stargazers">
+    <img src="https://img.shields.io/github/stars/zevdvlpr/twitter-clone?color=2aa9e0&logo=github&style=flat-square" alt="GitHub Stargazers">
+  </a>  
 </div>
 
 ## :keyboard: Resultado
+
+Veja o deploy do site [clicando aqui](https://twitter-clone-zevdvlpr.vercel.app/).
 
 <img src="https://github.com/zevdvlpr/twitter-clone/blob/master/public/result.gif" alt="result" />
 
