@@ -7,13 +7,15 @@
   
   <hr />
   
-  ![Type](https://img.shields.io/static/v1?label=type&message=ui%20clone&color=orange)
-  ![Language](https://img.shields.io/static/v1?label=language&message=typescript&color=blue)
-  ![Plataform](https://img.shields.io/static/v1?label=plataform&message=web&color=blueviolet)
-  [![Deploy](https://img.shields.io/static/v1?label=deploy&message=vercel&color=brightgreen)](https://twitter-clone-zevdvlpr.vercel.app/)
-  [![License](https://img.shields.io/github/license/zevdvlpr/twitter-clone?color=red&label=license)](https://github.com/zevdvlpr/twitter-clone/tree/master/LICENSE)  
+  <div>
+    <img src="https://img.shields.io/badge/type-ui%20clone-orange" alt="Repo Type" />
+    <img src="https://img.shields.io/badge/language-typescript-blue" alt="Repo Main Language" />
+    <img src="https://img.shields.io/badge/platform-web-blueviolet" alt="Project Platform" />
+    <a href="https://twitter-clone-zevdvlpr.vercel.app/"><img src="https://img.shields.io/badge/deploy-vercel-brightgreen" alt="Deploy link" /></a>
+    <a href="https://github.com/zevdvlpr/twitter-clone/tree/master/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/twitter-clone?color=red&label=license" alt="Repo License" /></a>
+  </div>
   
-  <img src="./public/result.gif" width="450 />
+  <img src="./public/result.gif" width="450" />
 </div>
 
 # About
