@@ -28,7 +28,7 @@
 
 # About
 
-The project itself was created in order to implement my knowledge learned using React and Typescript.
+The project itself was created in order to implement my knowledge learned using React.js and Typescript.
 
 # Techs
 
