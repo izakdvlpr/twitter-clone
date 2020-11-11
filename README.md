@@ -60,6 +60,6 @@ The project itself was created in order to implement my knowledge learned using 
 <div align="center">
   <h1>Open Source</h1>
   <sub>Copyright © 2020-present, zevdvlpr.</sub>
-  <p>Discord UI Clone <a href="https://github.com/zevdvlpr/twitter-clone/tree/master/LICENSE">is MIT licensed 💖</a></p>
+  <p>Twitter UI Clone <a href="https://github.com/zevdvlpr/twitter-clone/tree/master/LICENSE">is MIT licensed 💖</a></p>
   <img src="./public/logo.png" width="35"/>
 </div>
